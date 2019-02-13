@@ -1,5 +1,5 @@
 ## Author Tim Novice 2019
-## Script to import Invoice data from M1 SQL DB and convert to XML
+## Script to import data from SQL DB and convert to XML
 
 ## Replace with the name of your SQLServer
 $SQLserver = "SQLsvr01"
