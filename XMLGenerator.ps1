@@ -10,7 +10,7 @@ $SQLDBName = "My_DB"
 ## Best not to use sa - create a db account for reporting. Use that here
 $uid = "MyDomain/sa"
 
-## Replace with the passwrod for the db account used above 
+## Replace with the password for the db account used above 
 $pwd = "xyz"
 
 ## Adjust below, adding path for output file relevant to your setup
