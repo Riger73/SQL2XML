@@ -16,7 +16,7 @@ $pwd = "xyz"
 ## Adjust below, adding path for output file relevant to your setup
 $XMLOutputFile = "C:\Reports\Report.xml"
 
-## Dummy SQL query - add your quesry below within quotes as per example
+## Dummy SQL query - add your query below within quotes as per example
 $SqlQuery = "SELECT [abc].[def], 
     FROM [My_DB].[dbo].[abc] [def]
     ORDER BY [abc].[def];"
